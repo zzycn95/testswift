@@ -1,3 +1,3 @@
-#import Foundation
+import Foundation
 
-println("hello world")
+print("hello world")
